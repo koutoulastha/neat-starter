@@ -16,6 +16,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-
+![](/static/img/icon.svg)
 
 aaa
+
+![apple loading](/static/img/apple.jpg "apple")
