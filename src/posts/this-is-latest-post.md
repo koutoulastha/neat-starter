@@ -18,6 +18,4 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 ![](/static/img/icon.svg)
 
-aaa
-
 ![apple loading](/static/img/apple.jpg "apple")
